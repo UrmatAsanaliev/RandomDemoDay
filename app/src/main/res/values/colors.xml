@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#802196F3</color>
+    <color name="pink">#80DC366E</color>
+    <color name="yellow">#80E6D32E</color>
+    <color name="winner_color">#E6D32E</color>
+    <color name="yell">#E6D32E</color>
+    <color name="grey">#B5B5B5</color>
+</resources>
