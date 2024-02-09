@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
     private fun constructListeners() {
         binding.btnRandom.setOnClickListener {
             startRandomSelection()
-            Handler(Looper.getMainLooper()).postdelayed({
+            Handler(Looper.getMainLooper()).postDelayed({
                 stopRandomSelection()
                 selectRandomImage()
                 showSelectedImageDialog()
